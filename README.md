@@ -1,7 +1,7 @@
 # HEV3_Helicase_Model
-In silico study on the Hepatitis E Virus RNA Helicase and its inhibition by silvestrol, rocaglamide and other flavagline compounds
+## In silico study on the Hepatitis E Virus RNA Helicase and its inhibition by silvestrol, rocaglamide and other flavagline compounds
 
-The HEV RNA Helicase domain of the HEV ORF1 poly-protein was meant to be modelled via homology modelling (HM), as reported in the 4.1 section, due to the absence of a crystallographic structure in the Protein Data Bank. This method, the relevance of which has been already proved, allows the successful modelling of proteins whose 3D structure is missing and it is particularly useful when crystallographic investigations are challenging, as in the case of poly-proteins.   
+The HEV RNA Helicase domain of the HEV ORF1 poly-protein was meant to be modelled via homology modelling (HM) due to the absence of a crystallographic structure in the Protein Data Bank. This method, the relevance of which has been already proved, allows the successful modelling of proteins whose 3D structure is missing and it is particularly useful when crystallographic investigations are challenging, as in the case of poly-proteins.   
 
 Specifically, the HEV ORF1 domain’s coding sequence of HEV RNA Helicase was chosen based on the results reported by Karpe and Lole who succeeded to recombinantly express the putative HEV1 ORF1 RNA Helicase region (from amino acid 960 to 1204) proving its activity. The focus on HEV3 (UniProt AC Q6J8G2) was due to its prevalent foodborne/zoonotic transmission and its worldwide spread. The localization of the RNA Helicase domain on the HEV3 ORF1 was achieved based on the alignment with the HEV1 RNA Helicase sequence proved as active by Karpe and Lole. Particularly, the HEV3 ORF1 region ranging from amino acid 975 to 1219 shared 90.6% identity and 95.5% similarity with the HEV1 RNA Helicase domain, becoming our target sequence (Tar-Seq).   
 
